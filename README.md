@@ -1,5 +1,4 @@
-![localhost_3000_ (1)](https://user-images.githubusercontent.com/75136330/212552633-fe138d61-89da-4ece-9497-a6c779e50f33.png)
-
-![localhost_3000_ (2)](https://user-images.githubusercontent.com/75136330/212552636-ad154d82-2358-4de7-b6b5-c6e68c8b918e.png)
-
-
+![WhatsApp Image 2024-07-04 at 11 23 14_0ea4cc72](https://github.com/pranavgupta022/OTP-Validator/assets/119832460/035a0619-528f-42c9-94d8-81ff6339a0ed)
+<br>
+<br>
+![WhatsApp Image 2024-07-04 at 11 23 23_39d4a2d0](https://github.com/pranavgupta022/OTP-Validator/assets/119832460/616e2295-0740-493c-9316-653caef818fd)
